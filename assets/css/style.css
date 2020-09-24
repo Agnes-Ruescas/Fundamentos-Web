@@ -1,4 +1,9 @@
 /*Estilos da página index.html*/
+.header {
+    background-color: black;
+    text-align: left;
+    padding: 10px;
+  }
 body
 {
   background-color: lightgray !important;
@@ -24,7 +29,7 @@ body
 
 #menu li a{
     text-decoration: none;
-    color: black;
+    color: white;
 }
 
 #menu li a:hover{
@@ -53,7 +58,7 @@ body
 
 #menu li a{
     text-decoration: none;
-    color: black;
+    color: white;
 }
 
 #menu li a:hover{
