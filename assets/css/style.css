@@ -15,9 +15,6 @@ body
     justify-content: center;
     align-items: center;
 }
-.lc{
-    color: black;
-}
 
 #menu li{
     display: inline;
@@ -61,7 +58,4 @@ body
 
 #menu li a:hover{
     color: cornflowerblue;
-}
-.lc{
-    color:black;
 }
